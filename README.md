@@ -1,3 +1,4 @@
+[![Watch the video](https://img.youtube.com/vi/AAlvIpQafQk/maxresdefault.jpg)](https://youtu.be/AAlvIpQafQk)
 [Here is my Youtube video](https://youtu.be/AAlvIpQafQk): https://youtu.be/AAlvIpQafQk
 
 
